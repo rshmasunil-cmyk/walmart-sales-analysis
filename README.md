@@ -75,10 +75,11 @@ This project demonstrates skills in data visualization, business analysis, KPI r
   <li>Balanced payment usage reduces operational and payment risk</li>
 </ul>
 
-
+<br><br><br>
 <img width="1123" height="638" alt="image" src="https://github.com/user-attachments/assets/95d3dcd2-b87b-4c9f-9d35-c741f3174864" />
-<img width="1127" height="624" alt="image" src="https://github.com/user-attachments/assets/2f3f25f1-386d-497b-b1be-69781a76159e" />
-
+<br><br>
+<img width="1148" height="646" alt="image" src="https://github.com/user-attachments/assets/6ae22e4f-40e7-4660-ab63-32b607f86295" />
+<br><br><br>
 
 <h2>Business Recommendations</h2>
 <ul>
