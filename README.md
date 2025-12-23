@@ -75,6 +75,11 @@ This project demonstrates skills in data visualization, business analysis, KPI r
   <li>Balanced payment usage reduces operational and payment risk</li>
 </ul>
 
+
+<img width="1123" height="638" alt="image" src="https://github.com/user-attachments/assets/95d3dcd2-b87b-4c9f-9d35-c741f3174864" />
+<img width="1127" height="624" alt="image" src="https://github.com/user-attachments/assets/2f3f25f1-386d-497b-b1be-69781a76159e" />
+
+
 <h2>Business Recommendations</h2>
 <ul>
   <li>Focus marketing efforts on 26–35 and 36–45 age groups</li>
